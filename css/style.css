@@ -1,0 +1,60 @@
+﻿h3 {
+	font-weight: bold;
+}
+
+label {
+	display: block;
+	font-weight: bold;
+	margin-top: 1em;
+}
+
+textarea {
+	width: 100%;
+	height: 150px;
+}
+
+p {
+	width: 80%;
+}
+
+.error {
+	color: #ff3b6a;
+}
+
+.btn {
+	background-color: #d4d4d4;
+	margin-right: 10px;
+	padding: 10px 30px;
+	border-radius: 3px;
+	margin-top: 2.5em;
+}
+
+.btn.save {
+	background-color: #553379;
+	color: white;
+	border-radius: 3px;
+}
+
+.btn.delete {
+	background-color: #ff3b6a;
+	color: white;
+	border-radius: 3px;
+}
+
+input.pressable {
+    background-color: #d4d4d4;
+	padding: 5px 10px;
+	margin-top: 10px;
+	margin-right: 5px;
+	border-radius: 20px;
+	border: none;
+}
+
+input.pressable.active {
+    background-color: #553379;
+    color: white;
+}
+
+input[type='submit'] {
+	margin-top: 2.5em;
+}

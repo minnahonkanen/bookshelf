@@ -1,0 +1,86 @@
+#container {
+    font-family: verdana;
+    font-size: smaller;
+    margin: auto;
+}
+
+#books {
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+}
+
+#books a {
+    color: #553379;
+}
+
+#books a:hover {
+    color: #d4d4d4;
+}
+
+#books td {
+    width: 20%;
+    height: auto;
+}
+
+#books td, #books th {    
+    padding: 8px;
+}
+
+#books thead {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #553379;
+    color: #553379;
+    font-size: 20px;
+}
+
+#searchfield {
+    border-radius: 3px;
+    padding: 8px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+#categories {
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: none;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 2.5em;
+}
+
+.pressable-category {
+    background-color: #d4d4d4;
+}
+
+.pressable-category.active {
+    background-color: #553379;
+    color: white;
+    padding: 8px;
+}
+
+.writer {
+    text-align: center;
+    font-weight: bold;
+}
+
+.pressable-author {    
+    padding: 10px;
+    color: #553379;
+}
+
+.pressable-author:hover {
+    cursor: pointer;
+    background-color: #553379;
+    color: white;
+    border-radius: 20px;
+}
+
+.pressable-author.active {
+    background-color: #553379;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}

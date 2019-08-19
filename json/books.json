@@ -1,0 +1,113 @@
+[
+    {
+        "name": "The Husband",
+        "description": "Tim Carrier always thought he knew the difference between right and wrong, good and evil. But tonight everything he thought he knew\u2014even about himself\u2014will be challenged. For Tim Carrier is at the center of a mystery of extraordinary proportions, the one man who can save an innocent life and stop a killer as relentless as evil incarnate. But first he must discover resources within himself of which he never dreamed, capacities that will transform his idea of who he is and what it takes to be.",
+        "authors": [
+            "Dean Koontz"
+        ],
+        "categories": [
+            "Thriller",
+            "Crime",
+            "Murder"
+        ]
+    },
+    {
+        "name": "Bridget Jones's Diary",
+        "description": "Bridget Jones' Diary is the devastatingly self-aware, laugh-out-loud daily chronicle of Bridget's permanent, doomed quest for self-improvement \u2014 a year in which she resolves to: reduce the circumference of each thigh by 1.5 inches, visit the gym three times a week not just to buy a sandwich, form a functional relationship with a responsible adult, and learn to program the VCR.",
+        "authors": [
+            "Helen Fielding"
+        ],
+        "categories": [
+            "Romantic Comedy",
+            "Single Women"
+        ]
+    },
+    {
+        "name": "Bridget Jones: The Edge of Reason",
+        "description": "Bridget's second diary, Bridget Jones: The Edge of Reason takes us through a year that begins with man-of-her-dreams Mark Darcy (who never does the washing up) and lurches onwards through a sea of self-help books and lunatic advice from her mad friends. Struggling with the challenges of a boyfriend-stealing beauty, an eight-foot hole in the wall and a builder obsessed with large reservoir fish, Bridget decides it's time for a spiritual epiphany. And so she departs Notting Hill for the sparkling shores of Thailand . . . ",
+        "authors": [
+            "Helen Fielding"
+        ],
+        "categories": [
+            "Romantic Comedy",
+            "Single Women"
+        ]
+    },
+    {
+        "name": "Bridget Jones: Mad About the Boy",
+        "description": "Bridget Jones stumbles through the challenges of single-motherhood, tweeting, texting and redisovering her sexuality in what SOME people rudely and outdatedly call 'middle age'. The long-awaited return of a much-loved character, Bridget Jones: Mad About the Boy is timely, tender, touching, witty, wise and bloody hilarious.",
+        "authors": [
+            "Helen Fielding"
+        ],
+        "categories": [
+            "Romantic Comedy",
+            "Single Women"
+        ]
+    },
+    {
+        "name": "The Surgeon",
+        "description": "A killer is targeting lone women, torturing and murdering them. The precision of his methods leads Detective Jane Rizzoli to suspect he is medically trained. Then Jane makes a terrifying discovery. Years ago a young woman was assaulted in a similar way. She escaped by shooting her attacker dead. So why does it feel like he's stalking her again?",
+        "authors": [
+            "Tess Gerritsen"
+        ],
+        "categories": [
+            "Thriller",
+            "Crime"
+        ]
+    },
+    {
+        "name": "The Apprentice",
+        "description": "A series of horrific murders seem disturbingly familiar to Detective Jane Rizzoli. They remind her and Forensic Pathologist Maura Isles of those committed by a killer known as the Surgeon, who they recently put behind bars. While they're still trying to track down the new killer, the unthinkable happens: the Surgeon escapes. Suddenly, Jane is chasing not one but two brilliant and twisted minds, united by one goal...",
+        "authors": [
+            "Tess Gerritsen"
+        ],
+        "categories": [
+            "Thriller",
+            "Crime"
+        ]
+    },
+    {
+        "name": "Bridget Jones's Baby: The Diaries",
+        "description": "Before motherhood, before marriage, Bridget, with biological clock ticking very, very loudly, finds herself unexpectedly pregnant at the eleventh hour: a joyful pregnancy which is dominated, however, by a crucial but terribly awkward question - who is the father? Mark Darcy: honourable, decent, notable human rights lawyer? Or Daniel Cleaver: charming, witty, notable fuckwit?",
+        "authors": [
+            "Helen Fielding"
+        ],
+        "categories": [
+            "Romantic Comedy",
+            "Single Women"
+        ]
+    },
+    {
+        "name": "Lisey's Story",
+        "description": "Lisey Landon lost her husband Scott two years ago, after a twenty-five-year marriage of profound, sometimes frightening intimacy. Scott was a celebrated, award-winning, novelist. And a complex man. Lisey knew there was a dark place where her husband ventured to face his demons. Boo'ya Moon is what Scott called it; a realm that both terrified and healed him, that could eat him alive or give him the ideas he needed to write and live. Now, it's Lisey's turn to face her husband's demons. And what begins as a widow's effort to sort through her husband's effects, becomes a perilous journey into the heart of darkness.",
+        "authors": [
+            "Stephen King"
+        ],
+        "categories": [
+            "Thriller",
+            "Psychological"
+        ]
+    },
+    {
+        "name": "The Sinner",
+        "description": "Two nuns are brutally attacked within the walls of their convent. There seems to be no shred of motive. But during the autopsy Forensic Pathologist Maura Isles discovers something entirely unexpected. And when a second, heavily mutilated body is found and linked to the case, she and Detective Jane Rizzoli find themselves in the midst of a terrifying investigation that seems to implicate everyone. Because who can really say they're free from sin?",
+        "authors": [
+            "Tess Gerritsen"
+        ],
+        "categories": [
+            "Thriller",
+            "Crime"
+        ]
+    },
+    {
+        "name": "Test Book",
+        "description": "This is a test description.",
+        "authors": [
+            "Helen Fielding"
+        ],
+        "categories": [
+            "Romantic Comedy",
+            "Single Women"
+        ]
+    }
+]
